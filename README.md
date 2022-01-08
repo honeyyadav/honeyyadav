@@ -3,6 +3,10 @@ I am a full-stack software engineer with experience in medium-scale mobile and b
 
 In my spare time, I am mostly adding new skills to my repertoire.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyyadav&show_icons=true&count_private=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=honeyyadav)
+
 <!--
 **honeyyadav/honeyyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
