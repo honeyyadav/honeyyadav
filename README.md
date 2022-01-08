@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hi there 👋, I'm Honey
+I am a full-stack software engineer with experience in medium-scale mobile and back-end applications, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming.
+
+In my spare time, I am mostly adding new skills to my repertoire.
 
 <!--
 **honeyyadav/honeyyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
